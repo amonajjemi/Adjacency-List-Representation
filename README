@@ -1,0 +1,21 @@
+Aaron Monajjemi
+amonajje
+Programming Assignment 4
+
+Files submitted: List.c, List.h, Graph.c, Graph.h, GraphTest.c, FindPath.c, Makefile, README
+
+List.h is the header file for List.c
+
+The List.c is used to help the Graph ADT create an Adjacency List represetnation of the Graph
+
+The GraphTest.c file is the file I made to test the functionality of the Graph ADT
+
+Graph.h is the header file for Graph.c
+
+The Graph.c file is the implementation of our Graph ADT, it can execute BFS to find shortest paths between vertices as well as print an adjacency list representation of itself.
+
+The FindPath.c file reads in a graph and its edges from a file then prints the adjacency List of that Graph to another file as well as the shortest path between several vertices specified by the input file.
+
+The Makefile is the given Makefile with edits added so that it will compile my GraphTest.c.
+
+README is this file and is used to list the files that I am submitting with brief descriptions.
